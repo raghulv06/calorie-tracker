@@ -1,0 +1,85 @@
+body {
+  background: linear-gradient(135deg, #b3ffab, #12fff7);
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  text-align: center;
+  padding: 40px;
+}
+
+.app-title {
+  font-size: 2.2rem;
+  color: #333;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+}
+
+.tracker-card {
+  background: #fff;
+  max-width: 420px;
+  margin: 30px auto;
+  padding: 25px 30px;
+  border-radius: 20px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s;
+}
+
+.tracker-card:hover {
+  transform: translateY(-5px);
+}
+
+input {
+  width: 100%;
+  margin: 8px 0;
+  padding: 10px;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  font-size: 16px;
+  transition: 0.2s;
+}
+
+input:focus {
+  border-color: #00bcd4;
+  outline: none;
+  background: #f0faff;
+}
+
+button {
+  width: 100%;
+  margin-top: 10px;
+  background: #00bcd4;
+  color: white;
+  border: none;
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #0097a7;
+}
+
+.result {
+  text-align: left;
+  margin-top: 25px;
+}
+
+.result h3 {
+  color: #00796b;
+  border-bottom: 2px solid #00bcd4;
+  padding-bottom: 5px;
+}
+
+.warning {
+  color: red;
+  font-weight: bold;
+}
+
+.success {
+  color: green;
+  font-weight: bold;
+}

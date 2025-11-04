@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/raghulv06/calorie-tracker.git/static/css/main.885cc780.css",
+    "main.js": "/raghulv06/calorie-tracker.git/static/js/main.f0d2377e.js",
+    "static/js/453.1d6a1e7e.chunk.js": "/raghulv06/calorie-tracker.git/static/js/453.1d6a1e7e.chunk.js",
+    "index.html": "/raghulv06/calorie-tracker.git/index.html",
+    "main.885cc780.css.map": "/raghulv06/calorie-tracker.git/static/css/main.885cc780.css.map",
+    "main.f0d2377e.js.map": "/raghulv06/calorie-tracker.git/static/js/main.f0d2377e.js.map",
+    "453.1d6a1e7e.chunk.js.map": "/raghulv06/calorie-tracker.git/static/js/453.1d6a1e7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.885cc780.css",
+    "static/js/main.f0d2377e.js"
+  ]
+}
